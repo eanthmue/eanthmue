@@ -1,5 +1,4 @@
 - Hi, I’m @eanthmue
-- I’m currently learning Machine Learning.
 - I’m looking to collaborate on opensource projects.
 
 
